@@ -1,0 +1,11 @@
+c:\users\евгений\documents\visual studio 2012\Projects\Rev\Rev\bin\Debug\Rev.exe.config
+c:\users\евгений\documents\visual studio 2012\Projects\Rev\Rev\bin\Debug\Rev.exe
+c:\users\евгений\documents\visual studio 2012\Projects\Rev\Rev\bin\Debug\Rev.pdb
+c:\users\евгений\documents\visual studio 2012\Projects\Rev\Rev\obj\Debug\Rev.csprojResolveAssemblyReference.cache
+c:\users\евгений\documents\visual studio 2012\Projects\Rev\Rev\obj\Debug\Rev.Properties.Resources.resources
+c:\users\евгений\documents\visual studio 2012\Projects\Rev\Rev\obj\Debug\Rev.csproj.GenerateResource.Cache
+c:\users\евгений\documents\visual studio 2012\Projects\Rev\Rev\obj\Debug\Rev.exe
+c:\users\евгений\documents\visual studio 2012\Projects\Rev\Rev\obj\Debug\Rev.pdb
+c:\users\евгений\documents\visual studio 2012\Projects\Rev\Rev\obj\Debug\Rev.Reversi.resources
+c:\users\евгений\documents\visual studio 2012\Projects\Rev\Rev\obj\Debug\Rev.StartPage.resources
+c:\users\евгений\documents\visual studio 2012\Projects\Rev\Rev\obj\Debug\Rev.Reversi1.resources
